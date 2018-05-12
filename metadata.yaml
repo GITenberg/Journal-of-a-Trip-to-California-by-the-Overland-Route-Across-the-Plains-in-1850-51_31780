@@ -1,0 +1,31 @@
+_repo: Journal-of-a-Trip-to-California-by-the-Overland-Route-Across-the-Plains-in-1850-51_31780
+_version: 0.1.0
+contributor:
+  adapter:
+    agent_name: Ingalls, E. S. (Eleazer Stillman)
+    alias: Ingalls, Eleazer Stillman
+    birthdate: 1820
+    deathdate: 1879
+    gutenberg_agent_id: '35589'
+    url: http://www.gutenberg.org/2009/agents/35589
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2010-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31780'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F590.3'
+- !lcsh 'Overland journeys to the Pacific'
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcsh 'Ingalls, E. S. (Eleazer Stillman), 1820-1879'
+- !lcsh 'West (U.S.) -- History -- 1848-1860'
+title: Journal of a Trip to California by the Overland Route Across the Plains in
+  1850-51
+url: http://www.gutenberg.org/ebooks/31780
