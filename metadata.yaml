@@ -12,6 +12,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31780#Journal-of-a-Trip-to-California-by-the-Overland-Route-Across-the-Plains-in-1850-51
 gutenberg_issued: '2010-03-25'
 gutenberg_type: Text
 identifiers:
